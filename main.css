@@ -1,0 +1,37 @@
+body {
+background: url(https://ds-assets.cdn.devapps.ru/img/brand/431_1920.jpg?_=1655453150) ;
+background-repeat:no-repeat;
+background-size: cover;
+}
+
+.block{
+width: 295px;
+height: auto;
+background-color: #fff;
+padding: 10px;
+margin-top: 10px;
+
+}
+.wrapper{
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+flex-wrap: wrap;
+gap: 200px;
+}
+
+
+
+
+
+
+
+
+
+.block img{ 
+    width: 100%;
+}
+
+
+
+
